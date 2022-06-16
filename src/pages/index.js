@@ -40,7 +40,7 @@ const IndexPage = () => {
       <div className={styles.messageContainer}>
         <p>
           This is a demonstration of the Sydney theme for verse by{' '}
-          <span className={styles.gold}>matter design.</span>
+          <span className={styles.gold}><a href="https://pharmasie.fr" target="_self"><span style="color:#ffffff">https://pharmasie.fr</span></a></span>
         </p>
         <p>
           wear by <span className={styles.gold}>sunspel</span> and{' '}
